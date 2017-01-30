@@ -8,8 +8,8 @@ spring:
         driver-class-name: org.h2.Driver
         url: jdbc:h2:/Users/rhnickels/Desktop/ghub-rnickels/celerio-angular-quickstart/quickstart/target/db/angular-lab;MVCC=TRUE;FILE_LOCK=NO
         name:
-        username: celerio-angular-quickstart
-        password: celerio-angular-quickstart
+        username: springboot-ng2-starter
+        password: springboot-ng2-starter
 
     jpa:
         open-in-view: false
